@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.CV OR cat:cs.GR OR cat:cs.HC'
+subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
@@ -8,6 +8,9 @@ keywords:
         redirection : 2
         haptic cues : 1
         walking : 1
+        rendering : 1
+        graphics : 1
+        
         
 
 # 通知の閾値
