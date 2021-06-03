@@ -1,11 +1,13 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cs.CV OR cs.GR OR cs.HC'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        virtual reality : 1
+        redirected walking : 3
+        redirection : 1
+        haptic cues : 1       
+        
 
 # 通知の閾値
 score_threshold: 0
